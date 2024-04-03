@@ -1,24 +1,3 @@
-# calculator
+The project is a mini-application that includes a functional calculator. Created in JavaScript, the calculator has basic arithmetic operations and provides basic calculation capabilities.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Проект представляет собой мини-приложение, включающее в себя функциональный калькулятор. Созданный на языке JavaScript, калькулятор обладает основными арифметическими операциями и обеспечивает базовые расчетные возможности.
